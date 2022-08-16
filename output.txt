@@ -1,0 +1,19 @@
+"C:\Program Files\Java\jdk-18.0.1.1\bin\java.exe" "-javaagent:C:\Users\Lalit Chaudhari\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\lib\idea_rt.jar=49842:C:\Users\Lalit Chaudhari\AppData\Local\JetBrains\Toolbox\apps\IDEA-C\ch-0\221.6008.13\bin" -Dfile.encoding=UTF-8 -classpath "C:\Users\Lalit Chaudhari\OneDrive\Desktop\NIIT\Course3\Sprint3\c3_s3_mc1_OnlineBanking\out\production\c3_s3_mc1_OnlineBanking" SavingsAccountImpl
+Account Holder Name = Monali Sharma
+Account Number = 123456789012
+Account Opening Date = 15 March 2019
+Account Status = Active
+Available Balance = 50000.0
+Total Balance = 50000.0
+Enable Internet And Mobile Banking = true
+Interest Rate = 6.0
+Mode Of Operation = Self-operated
+
+Retrieve Balance = 50000.0
+Balance After Debit Amount = 49000.0
+Balance After Credit Amount = 53000.0
+
+Available Balance After Transaction = 53000.0
+Total Balance After Transaction = 53000.0
+
+Process finished with exit code 0
